@@ -65,84 +65,6 @@
 
 ---
 
-# 💼 Experience
-
-## 💻 C++ Programming Intern
-
-**Thiranex Technologies**
-
-✔ C++ Programming
-
-✔ Debugging
-
-✔ Software Development Workflow
-
-✔ Problem Solving
-
-✔ Best Coding Practices
-
----
-
-# 🚀 Featured Projects
-
-## 🎤 Voice Enabled AI Assistant
-
-> Vapi • Lovable.dev • React
-
-🎙️ Real-time Voice Conversation
-
-🤖 Conversational AI
-
-🧠 Prompt Engineering
-
-🌐 Portfolio Integration
-
----
-
-## 📍 HireLocal
-
-> React • Firebase • Google Maps API
-
-📍 Worker Discovery
-
-💬 Real-Time Chat
-
-⭐ Reviews & Ratings
-
-📅 Booking System
-
----
-
-## ❤️ UnityForce
-
-> React • Gemini AI • MongoDB
-
-🤖 AI Volunteer Matching
-
-📊 Analytics Dashboard
-
-📢 Smart Notifications
-
-🌍 Social Impact Platform
-
----
-
-# 📜 Certifications
-
-🏅 Google AI Professional Certificate
-
-🏅 Joy of Computing Using Python
-
-🏅 Java Programming for Beginners
-
-🏅 IBM Artificial Intelligence
-
-🏅 Introduction to AI
-
-🏅 HTML & CSS Crash Course
-
----
-
 # 📊 GitHub Statistics
 
 <div align="center">
@@ -183,33 +105,7 @@
 
 ---
 
-# 🌟 Activities
 
-🏆 IDE Bootcamp Team Leader
-
-💻 Competitive Programming
-
-🚀 AI Workshops
-
-🤝 Team Collaboration
-
-🎯 Hackathons
-
----
-
-# ❤️ Interests
-
-🤖 Artificial Intelligence
-
-💻 Software Development
-
-🚀 Innovation
-
-🧠 Competitive Programming
-
-🌍 Emerging Technologies
-
----
 
 # 🌐 Connect With Me
 
