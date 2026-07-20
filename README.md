@@ -15,7 +15,7 @@
 <img
   align="right"
   width="320"
-  src="YOUR_GIF_URL"
+  src=""https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/"
   style="margin-top:-20px;"
 />
 
