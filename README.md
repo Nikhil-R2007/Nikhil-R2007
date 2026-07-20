@@ -12,12 +12,7 @@
 
 # 💫 About Me
 
-<img
-  align="right"
-  width="320"
-  src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif/"
-  style="margin-top:-20px;"
-/>
+<img align="right" width="320" height="250" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 
 🎓 B.E. Computer Science Student at **SKCET**
 
