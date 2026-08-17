@@ -136,6 +136,8 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=140&section=footer&text=🔥%20Keep%20Building%20%7C%20Keep%20Learning%20🔥&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
+<div align="center">
+
+<img src="https://pin.it/75S5yNuaa" width="100%"/>
 
 </div>
