@@ -29,26 +29,27 @@
 🧩 Love Solving Problems
 
 ---
-
 # 🚀 Tech Stack
 
 <div align="center">
 
-### Languages
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,c,html,css"/>
+<img src="https://skillicons.dev/icons?i=cpp,java,c"/>
 
-### Frameworks & Technologies
+### ⚙️ Technologies
 
-<img src="https://skillicons.dev/icons?i=react,firebase,mongodb"/>
+<img src="https://skillicons.dev/icons?i=react,fastapi,firebase"/>
 
-### Design & Development Tools
+### 🤖 AI / ML
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+**Gemini • Google AI Studio • LLMs • AI Agents**
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,postman"/>
 
 </div>
-
----
 
 # 🤖 AI Tools
 
