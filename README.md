@@ -76,26 +76,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-R2007&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil-R2007&theme=react-dark"/>
-
-</div>
-
----
-
 
 # 🌐 Connect With Me
 
