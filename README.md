@@ -96,17 +96,6 @@
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nikhil-R2007&theme=algolia&no-frame=true&column=4"/>
-
-</div>
-
----
-
-
 
 # 🌐 Connect With Me
 
