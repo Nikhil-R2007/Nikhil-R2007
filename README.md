@@ -105,8 +105,4 @@
 
 <br>
 
-<div align="center">
 
-<img src="./assests/flame img.jpg" width="100%"/>
-
-</div>
