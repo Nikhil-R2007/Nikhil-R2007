@@ -29,25 +29,25 @@
 🧩 Love Solving Problems
 
 ---
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,mysql,data structures" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python" />
 
-### ⚙️ Technologies
+### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=react,fastapi,firebase"/>
+<img src="https://skillicons.dev/icons?i=mysql" />
 
 ### 🤖 AI / ML
 
-**Gemini • Google AI Studio • LLMs • AI Agents**
+**Gemini • Google AI Studio • Generative AI • LLMs • AI Agents**
 
 ### 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,canva,figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,canva" />
 
 </div>
 
