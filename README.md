@@ -35,7 +35,7 @@
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,java,c"/>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,mysql,data structures" />
 
 ### ⚙️ Technologies
 
@@ -47,7 +47,7 @@
 
 ### 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,canva,figma"/>
 
 </div>
 
