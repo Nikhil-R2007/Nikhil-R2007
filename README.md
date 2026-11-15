@@ -48,7 +48,6 @@
 ### 🛠️ Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,canva" />
-<img src="./assets/canva.png" height="48" width="48" alt="Canva" />
 
 </div>
 
